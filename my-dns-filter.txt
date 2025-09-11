@@ -2,6 +2,27 @@
 ! 常見廣告 / 追蹤黑名單
 ! 生成日期: 2025-09-10
 
+! —— 番茄暢聽 / 番茄小說廣告與追蹤阻擋 —— 
+||pangolin-sdk-toutiao.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao-b.com^
+||ad.byted.org^
+||ad.toutiao.com^
+||pglstatp-toutiao.com^
+||pglstatp.com^
+||i.snssdk.com^
+||is.snssdk.com^
+||s3.pstatp.com^
+||sf3-fe-tos.pstatp.com^
+||sf6-fe-tos.pstatp.com^
+||sf9-fe-tos.pstatp.com^
+||va-toutiao.com^
+||ad-toutiao.com^
+||track.toutiaoapi.com^
+||log.byteoversea.com^
+||log.snssdk.com^
+||mon.snssdk.com^
+
 ! 「番茄小說／番茄暢聽」專屬過濾規則
 ||fqnovel.com^
 ||tomato-novel.com^
