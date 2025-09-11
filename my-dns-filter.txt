@@ -2,6 +2,18 @@
 ! 常見廣告 / 追蹤黑名單
 ! 生成日期: 2025-09-10
 
+! —— 番茄暢聽 douyincdn 廣告過濾 —— 
+||douyincdn.com/*ad*
+||douyincdn.com/*ads*
+||douyincdn.com/*ad_video*
+||douyincdn.com/*ad-banner*
+||douyincdn.com/*banner*
+||douyincdn.com/*promotion*
+||douyincdn.com/*promo*
+||douyincdn.com/*splash*
+||douyincdn.com/*track*
+||douyincdn.com/*click*
+||douyincdn.com/*log*
 ! —— 番茄暢聽 / 番茄小說廣告與追蹤阻擋 —— 
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
